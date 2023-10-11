@@ -25,7 +25,7 @@ app.get("/dashboard", (req, res) => {
 
 app.get("/", (req,res) => {
     const usuario = {
-        nome: "David",
+        nome: "Caique",
         profissao: "Programador",
         idade: 19 
     }
