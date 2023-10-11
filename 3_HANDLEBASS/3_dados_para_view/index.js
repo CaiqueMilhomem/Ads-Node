@@ -10,7 +10,7 @@ app.set("view engine", "handlebars")
 
 app.get("/", (req,res) => {
     const usuario = {
-        nome: "David",
+        nome: "Caique",
         profissao: "Programador",
         idade: 19 
     }
